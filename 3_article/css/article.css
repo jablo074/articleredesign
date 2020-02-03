@@ -1,0 +1,67 @@
+/* All CSS styles go here */
+
+
+
+
+@font-face {
+    font-family: 'porter';
+    src: url('fonts/porter.ttf'), format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+body{ background-color: #EEE9DF;
+	margin-left:30px;
+
+
+
+
+}
+
+#header {
+	font-family:porter;
+	font-size: 80px;
+	color: black; 
+margin-bottom: -20px;}
+
+
+
+.container {
+	width: 40%;}
+
+
+
+#subtext{
+	font-family: 'Varela Round', sans-serif;
+			margin-bottom: 90px;
+			font-style: italic;
+
+		}
+
+
+#author{
+font-family: 'Varela Round', sans-serif;
+font-size: 19px;
+color: #4A4B7B;
+
+
+}
+
+
+#link{
+	margin-top: 40px;
+		font-family: 'Varela Round', sans-serif;
+		font-size: 
+		}
+
+.text{
+font-family: 'Varela Round', sans-serif;
+line-height: 23px;
+
+}
+
+
+}
